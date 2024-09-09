@@ -14,3 +14,5 @@ In this stage, we decide to collect the titles about Microsost Corp of BBC news 
 4. Use requests library and BeautifulSoup to download news content in HTML format.
 5. Use json library to access through multiple class of json structure (contents of the news are in json format) to get the title.
 6. Store all titles in a new csv file (i.e. "bbc_news_with_title.csv").
+
+Special thanks to Yixuan Li for support me in this project
